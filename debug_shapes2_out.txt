@@ -1,0 +1,7 @@
+current_tool after set: ToolType.RECT
+cw canvas is win canvas: True
+_shape_start after press: PyQt6.QtCore.QPoint(20, 20)
+_is_drawing after press: True
+_shape_preview_end after move: PyQt6.QtCore.QPoint(100, 100)
+_shape_start after release: None
+nonzero alpha pixels on active layer after simulated draw: 3160

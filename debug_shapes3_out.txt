@@ -1,0 +1,13 @@
+Canvas creado via __new__ (como en _open_project)
+draw_rect FALLO:
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\proyectos\drawenginettttttttttt\debug_shapes3.py", line 48, in <module>
+    new_canvas.draw_rect(20, 20, 100, 100, filled=True, stroke=True)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\proyectos\drawenginettttttttttt\core\canvas.py", line 565, in draw_rect
+    self._apply_shape_to_layer(layer, _draw)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\proyectos\drawenginettttttttttt\core\canvas.py", line 487, in _apply_shape_to_layer
+    if self.selection.active or (self.paint_mask_active and self.paint_mask is not None):
+                                 ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Canvas' object has no attribute 'paint_mask_active'

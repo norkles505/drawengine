@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 640 640"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="copy.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1"><inkscape:path-effect
+     effect="fillet_chamfer"
+     id="path-effect2"
+     is_visible="true"
+     lpeversion="1"
+     nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,36.302026,0,1 @ F,0,0,1,0,38.777164,0,1 @ F,0,0,1,0,24.115654,0,1 @ F,0,0,1,0,0,0,1"
+     radius="0"
+     unit="px"
+     method="auto"
+     mode="F"
+     chamfer_steps="1"
+     flexible="false"
+     use_knot_distance="true"
+     apply_no_radius="true"
+     apply_with_radius="true"
+     only_selected="false"
+     hide_knots="false" /></defs><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.8484375"
+   inkscape:cx="319.41068"
+   inkscape:cy="317.64273"
+   inkscape:window-width="1366"
+   inkscape:window-height="745"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1" /><!--!Font Awesome Free v7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.-->
+
+
+
+
+<rect
+   style="opacity:1;fill:none;stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;paint-order:stroke fill markers"
+   id="rect1"
+   width="353.59116"
+   height="353.59116"
+   x="210.97606"
+   y="211.22652"
+   ry="35.359116" /><path
+   style="opacity:1;fill:none;stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;paint-order:stroke fill markers"
+   d="M 204.1547,433.73849 H 110.55617 A 36.302026,36.302026 45 0 1 74.254144,397.43646 l 0,-276.15469 A 38.777164,38.777164 135 0 1 113.03131,82.504604 h 289.51971 a 24.115654,24.115654 45 0 1 24.11565,24.115656 l 0,99.17716"
+   id="path2"
+   sodipodi:nodetypes="ccccc"
+   inkscape:path-effect="#path-effect2"
+   inkscape:original-d="M 204.1547,433.73849 H 74.254144 V 82.504604 H 426.66667 V 205.79742" /></svg>

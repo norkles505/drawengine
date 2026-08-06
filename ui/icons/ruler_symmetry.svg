@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 640 640"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+<path
+   style="fill:none;stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20"
+   d="M 320.58932,63.289134 V 565.38858"
+   id="path1" />
+<path
+   style="fill:none;stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20"
+   d="M 564.10313,167.36648 379.52118,320.58932 563.38858,469.09761 Z"
+   id="path2" />
+<path
+   fill="#ffffff"
+   style="stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20"
+   d="M 79.044186,167.36673 263.62614,320.58957 79.758736,469.09786 Z"
+   id="path2-5" />
+</svg>

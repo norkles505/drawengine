@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 640 640"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+<circle
+   style="fill:none;stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20"
+   id="path1"
+   cx="320.99817"
+   cy="320.99817"
+   r="237.49539" />
+<circle
+   style="fill:none;stroke:#ffffff;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20"
+   id="path2"
+   cx="319.28546"
+   cy="320.60773"
+   r="59.521179" />
+<circle
+   style="fill:none;stroke:#ffffff;stroke-width:27.9801;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20"
+   id="path3"
+   cx="486.87476"
+   cy="151.29466"
+   r="61.009964" />
+</svg>

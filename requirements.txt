@@ -1,0 +1,8 @@
+﻿PyQt6
+numpy
+Pillow
+opencv-python
+imageio
+imageio-ffmpeg
+tqdm
+psutil
