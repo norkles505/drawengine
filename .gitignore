@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Entorno virtual (lo crea crear-venv.sh)
+venv/
+.venv/
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Copias de seguridad y temporales
+*.bak
+*.tmp
+*.log
+
+# Archivos de depuracion y pruebas sueltas
+debug_*.py
+debug_*.txt
+check*.txt
+test_marker.txt

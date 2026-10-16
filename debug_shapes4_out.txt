@@ -1,3 +1,0 @@
-Proyecto guardado OK
-Proyecto reabierto OK con constructor completo
-draw_rect tras reabrir proyecto: 7720 pixeles pintados

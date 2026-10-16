@@ -1,9 +1,0 @@
-active_layer is None: False
-num layers: 2
-draw_rect nonzero alpha pixels: 7720
-draw_ellipse nonzero alpha pixels: 6232
-brush size: 8
-brush color: 0,0,0,255
-brush_opacity: 1.0
-selection.active: False
-paint_mask_active: False
